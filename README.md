@@ -69,13 +69,13 @@ Handled document processing tasks with accuracy and attention to detail, support
 
 ### Email Spam Detection
 
-<img src="https://github.com/alisulmanpro/Email-Classifier-1/issues/3#issue-3769742097" alt="Email Spam Detection " width="500"/>
+<img width="1345" height="652" alt="Image" src="https://github.com/user-attachments/assets/11943d71-fb9c-4013-bf05-f649f3847a7e" />
 
 **Technologies Used:** python, pandas, sciket-learn, streamlit
 
 ### House Price Predictions
 
-<img src="https://github.com/alisulmanpro/Email-Classifier-1/issues/3#issue-3769742097" alt="House Price Predictions" width="500"/>
+<img width="1345" height="652" alt="Image" src="https://github.com/user-attachments/assets/11943d71-fb9c-4013-bf05-f649f3847a7e" />
 
 **Technologies Used:** python, pandas, sciket-learn, streamlit
 
