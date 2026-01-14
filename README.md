@@ -1,73 +1,222 @@
-<img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/ee588f39-3f9d-483f-8c79-a36bfa83b636" />
+<div align="center">
+  <img src="https://github.com/alisulmanpro/alisulmanpro/issues/1#issue-3803655903" alt="Profile Banner" width="100%" />
+</div>
 
-<h1 align="center">Hello World! 👋 I'm Ali Sulman</h1>
 
-<h5 align="center">I am a passionate Python & AI developer with hands-on experience in:
+<div align="left">
 
-Machine Learning projects (Spam Detection, House Price Prediction)
-Django-based web applications
-Teaching & mentoring students through project-based learning
-NLP & Computer Vision fundamentals
-I focus on clean code, real-world use cases, and industry-ready projects.</h5><br>
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Ali Sulman
 
-<h2 align="left">Some Facts About Me</h2>
+### A passionate developer from Pakistan
 
-- 🌱 I’m currently learning **Machine Learning**
+</div>
 
-<h2 align="left">Skillset</h2>
+## 🚀 About Me
 
-<h3 align="left">Programming Languages:</h3>
+I am a software-focused Python developer with a strong interest in building
+practical and scalable applications. I work with Python, Django, and Machine
+Learning, and I prefer learning and teaching through real-world projects. My
+goal is to design clean, efficient solutions while continuously improving my
+skills in backend development and AI.
 
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/javascript.svg" width='40' height='40' title='javascript'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/python.svg" width='40' height='40' title='python'/></p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
+</p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=alisulmanpro&show_icons=true&locale=en&layout=compact" />
+## 📚 Learning & Knowledge
 
-<h3 align="left">Frontend Development:</h3>
+<div align="left">
 
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/reactjs.svg" width='40' height='40' title='reactjs'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/bootstrap.svg" width='40' height='40' title='bootstrap'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/html.svg" width='40' height='40' title='html'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/css.svg" width='40' height='40' title='css'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/redux.svg" width='40' height='40' title='redux'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/tailwind.svg" width='40' height='40' title='tailwind'/></p>
+- 🌱 I'm currently learning **Machine Learning, Deep Learning**
 
-<h3 align="left">Backend Development:</h3>
+</div>
 
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BackendDevelopment/nodejs.svg" width='40' height='40' title='nodejs'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BackendDevelopment/express.svg" width='40' height='40' title='express'/></p>
+## 💼 Work Experience
 
-<h3 align="left">AI / ML:</h3>
+| Company                              | Position                 | Duration          |
+| ------------------------------------ | ------------------------ | ----------------- |
+| Pakistan Artificial Intelligence Lab | Joiner Software Engineer | 2025-07 - Present |
+| Systems Private Limited              | DPE                      | 2024-10 - 2025-06 |
 
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/AIML/scikit.svg" width='40' height='40' title='scikit'/></p>
+### Joiner Software Engineer at Pakistan Artificial Intelligence Lab
 
-<h3 align="left">Database Management:</h3>
+_Narowal, Pakistan_
 
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/mongodb.svg" width='40' height='40' title='mongodb'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/mysql.svg" width='40' height='40' title='mysql'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/postgresql.svg" width='40' height='40' title='postgresql'/></p>
+Worked on Python-based projects with a focus on Machine Learning concepts, data
+processing, and practical AI applications.
 
-<h3 align="left">Devops:</h3>
+**Technologies:** python, pandas, numpy, seaborn, sciket-learn, django
 
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Devops/docker.svg" width='40' height='40' title='docker'/></p>
+**Key Achievements:**
 
-<h3 align="left">Frameworks:</h3>
+- Instructor of web-development
+- Lab Assistant in Seminars
+- Admin Jobs
 
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Framework/django.svg" width='40' height='40' title='django'/></p>
+### DPE at Systems Private Limited
 
-<h3 align="left">Softwares:</h3>
+_Lahore, Pakistan_
 
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Software/figma.svg" width='40' height='40' title='figma'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Software/postman.svg" width='40' height='40' title='postman'/></p>
+Handled document processing tasks with accuracy and attention to detail, supporting data management and operational workflows.
 
-<h3 align="left">Static Site Generators:</h3>
 
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/StaticSiteGenerators/nextjs.svg" width='40' height='40' title='nextjs'/></p>
+## 🚀 Projects
 
-<h3 align="left">Others:</h3>
+| Project              | Description                                                                                                                                                                                                                 | Links                                                                                                                                         |
+| -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| Email Spam Detection | Comprehensive collection of 100 Machine Learning projects covering Data Science, Deep Learning, and AI. This repository documents my journey from foundational statistics to advanced neural networks and model deployment. | [Live](https://email-classifier-1-n48kyj4vgqmhrxmedx8zrb.streamlit.app/) / [GitHub](https://github.com/alisulmanpro/Email-Classifier-1)       |
+| House Price Predictions                     | An interactive web application that predicts real estate market values using a trained Scikit-Learn regression model. Built with Python and Streamlit. (Project 02 of #100ProjectsOfML)                                     | [Live](https://house-price-predictor-manknshbx9uja9jagw8s5a.streamlit.app/) / [GitHub](https://github.com/alisulmanpro/house-price-predictor) |
 
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/git.svg" width='40' height='40' title='git'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/linux.svg" width='40' height='40' title='linux'/></p>
+### Email Spam Detection
 
-<br><hr><br>
+<img src="https://github.com/alisulmanpro/Email-Classifier-1/issues/3#issue-3769742097" alt="Email Spam Detection " width="500"/>
 
-<img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=alisulmanpro" />
+**Technologies Used:** python, pandas, sciket-learn, streamlit
 
-<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=alisulmanpro&show_icons=true&locale=en" />
+### House Price Predictions
 
-<img width="50%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=alisulmanpro&" />
+<img src="https://github.com/alisulmanpro/Email-Classifier-1/issues/3#issue-3769742097" alt="House Price Predictions" width="500"/>
 
-<img align="left" src="https://komarev.com/ghpvc/?username=alisulmanpro&label=Profile%20views&color=0e75b6&style=flat" />
+**Technologies Used:** python, pandas, sciket-learn, streamlit
 
-<h2 align="left">Connect with Me</h2>
+## 🎓 Education
 
-<p align='left'><a href="https://github.com/alisulmanpro"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/github.svg" width="40" height='40' title="github"/></a><a href="https://www.linkedin.com/in/ali-sulman-077682374/"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/twitter.svg" width="40" height='40' title="twitter"/></a><a href="https://www.instagram.com/alisu_1470/"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/instagram.svg" width="40" height='40' title="instagram"/></a></p>
+| Institution                    | Degree    |
+| ------------------------------ | --------- | 
+| Virtual University of Pakistan | Bachelors | 
+
+### Bachelors in Software Engineering
+
+_Virtual University of Pakistan_
+
+Focused on software development fundamentals, problem solving, and practical
+application of programming concepts.
+
+## 📞 Contact & Links
+
+<div align="left">
+
+- 📫 How to reach me **alisulmanpro1470@gmail.com**
+
+</div>
+
+## ⚡ Fun Fact
+
+<div align="center">
+
+_I learn new concepts best by implementing them in real projects._
+
+</div>
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alisulmanpro)&nbsp;&nbsp;&nbsp;[![Twitter/X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/https://x.com/alisulmanpro)&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/https://www.linkedin.com/in/ali-sulman-077682374/)&nbsp;&nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/alisu_1470/)
+
+</div>
+
+
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
+
+<br />
+
+### 💻 DevOps
+
+<img src="https://cdn.simpleicons.org/docker/2496ED?size=32" alt="Docker"  />
+
+### 💻 Software
+
+<img src="https://cdn.simpleicons.org/figma/F24E1E?size=32" alt="Figma"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/postman/FF6C37?size=32" alt="Postman"  />
+
+### 💻 Static Site Generators
+
+<img src="https://cdn.simpleicons.org/nextdotjs/fff?size=32" alt="Next.js"  />
+
+### 💻 Other
+
+<img src="https://cdn.simpleicons.org/git/F05032?size=32" alt="Git"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/linux/FCC624?size=32" alt="Linux"  />
+
+<h2 align="left">Current Learning</h2>
+<ul align="left">
+  <li>Advanced Python concepts and best practices</li>
+  <li>Machine Learning fundamentals and model building</li>
+  <li>Data preprocessing and feature engineering</li>
+  <li>Data preprocessing and feature engineering</li>
+</ul>
+
+<!--Trophies Section-->   
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<p align="center">
+  <a href="https://github.com/alisulmanpro">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=alisulmanpro&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=alisulmanpro&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=alisulmanpro&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+    </picture>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/daytonaio/daytona">
+    <img
+      src="https://api.vaunt.dev/v1/github/entities/alisulmanpro/achievements?format=svg&limit=6"
+      width="400"
+    />
+  </a>
+</p>
+<br />
+<!--Github stats Table--> 
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/alisulmanpro">
+          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=alisulmanpro&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/alisulmanpro">
+          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=alisulmanpro&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/alisulmanpro/storyblok-mcp-server">
+          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=alisulmanpro&repo=storyblok-mcp-server&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=alisulmanpro&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+</div>
+---
+
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+<!--STARTS_HERE_QUOTE_CARD-->
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+</p>
+<!--ENDS_HERE_QUOTE_CARD-->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
