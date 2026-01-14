@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/alisulmanpro/alisulmanpro/issues/1#issue-3803655903" alt="Profile Banner" width="100%" />
+  <img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/ee588f39-3f9d-483f-8c79-a36bfa83b636" />
 </div>
 
 
@@ -20,7 +20,7 @@ goal is to design clean, efficient solutions while continuously improving my
 skills in backend development and AI.
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=alisulmanpro&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
 </p>
 
 ## 📚 Learning & Knowledge
