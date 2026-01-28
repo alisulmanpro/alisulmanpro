@@ -64,20 +64,8 @@ Handled document processing tasks with accuracy and attention to detail, support
 
 | Project              | Description                                                                                                                                                                                                                 | Links                                                                                                                                         |
 | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| Email Spam Detection | Comprehensive collection of 100 Machine Learning projects covering Data Science, Deep Learning, and AI. This repository documents my journey from foundational statistics to advanced neural networks and model deployment. | [Live](https://email-classifier-1-n48kyj4vgqmhrxmedx8zrb.streamlit.app/) / [GitHub](https://github.com/alisulmanpro/Email-Classifier-1)       |
-| House Price Predictions                     | An interactive web application that predicts real estate market values using a trained Scikit-Learn regression model. Built with Python and Streamlit. (Project 02 of #100ProjectsOfML)                                     | [Live](https://house-price-predictor-manknshbx9uja9jagw8s5a.streamlit.app/) / [GitHub](https://github.com/alisulmanpro/house-price-predictor) |
-
-### Email Spam Detection
-
-<img width="1345" height="652" alt="Image" src="https://github.com/user-attachments/assets/11943d71-fb9c-4013-bf05-f649f3847a7e" />
-
-**Technologies Used:** python, pandas, sciket-learn, streamlit
-
-### House Price Predictions
-
-<img width="1345" height="652" alt="Image" src="https://github.com/user-attachments/assets/11943d71-fb9c-4013-bf05-f649f3847a7e" />
-
-**Technologies Used:** python, pandas, sciket-learn, streamlit
+| Email Spam Detection | End-to-end Email Spam Detection system using Machine Learning and NLP, featuring TF-IDF, Logistic Regression, threshold optimization, and a FastAPI-based real-time inference API. Topics python nlp api | [Demo](https://github-production-user-asset-6210df.s3.amazonaws.com/250616924/541758880-56ce226a-b656-4a5e-934a-7566a15f23f0.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260128%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260128T181908Z&X-Amz-Expires=300&X-Amz-Signature=b6096a58bd4a5a6dad8bc11711a9da4de62d19efd8bdbe2d78fed444b3961e54&X-Amz-SignedHeaders=host) / [GitHub]([https://github.com/alisulmanpro/Email-Classifier-1](https://github.com/alisulmanpro/Email-Spam-Detection-Classifier))       |
+| House Price Predictions                     | An end-to-end regression project trained on the Boston Housing dataset, featuring data analysis, Random Forest modeling, model evaluation, and real-time prediction through a REST API built with FastAPI.)                                     | [Demo](https://github.com/user-attachments/assets/56ce226a-b656-4a5e-934a-7566a15f23f0) / [GitHub](https://github.com/alisulmanpro/House-Price-Prediction-Model) |
 
 ## 🎓 Education
 
@@ -160,14 +148,6 @@ _I learn new concepts best by implementing them in real projects._
       <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=alisulmanpro&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
       <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=alisulmanpro&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
     </picture>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/daytonaio/daytona">
-    <img
-      src="https://api.vaunt.dev/v1/github/entities/alisulmanpro/achievements?format=svg&limit=6"
-      width="400"
-    />
   </a>
 </p>
 <br />
