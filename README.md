@@ -1,35 +1,45 @@
-<div align="center">
-  <img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/ee588f39-3f9d-483f-8c79-a36bfa83b636" />
-</div>
-
-
 <div align="left">
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Ali Sulman
 
-### A passionate developer from Pakistan
+#### Helping businesses automate tasks & build web solutions | Python, ML & Full Stack Developer | Part of Pakistan AI Lab & FYP Solutions Tech
 
-</div>
-
-## 🚀 About Me
-
-I am a software-focused Python developer with a strong interest in building
-practical and scalable applications. I work with Python, Django, and Machine
-Learning, and I prefer learning and teaching through real-world projects. My
-goal is to design clean, efficient solutions while continuously improving my
-skills in backend development and AI.
+<p align="left">
+Passionate Python developer and Machine Learning enthusiast from Pakistan. I build practical, scalable applications using Django, FastAPI, and ML tools. Currently working as a Junior Software Engineer at Pakistan Artificial Intelligence Lab, focusing on real-world AI projects. I learn best by turning concepts into production-ready code!
+</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=alisulmanpro&label=Profile%20views&color=201F1D&style=for-the-badge&logo=star" alt="alisulmanpro" style="padding-right:20px;" />
 </p>
 
-## 📚 Learning & Knowledge
-
-<div align="left">
-
-- 🌱 I'm currently learning **Machine Learning, Deep Learning**
-
 </div>
+
+
+---
+
+<div align="center">
+  <img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/ee588f39-3f9d-483f-8c79-a36bfa83b636" />
+</div>
+
+---
+
+### 🌟 I'm currently working on
+Python-based Machine Learning projects at Pakistan Artificial Intelligence Lab, including data pipelines, model deployment with FastAPI, and backend systems with Django.
+
+### 🤝 I'm looking to collaborate on
+Open-source Machine Learning, NLP, or backend projects — especially anything involving real-time APIs, data science, or scalable web applications. Let's build something impactful together!
+
+### 🙋 I'm looking for help with
+Advanced Deep Learning techniques, model optimization (e.g., hyperparameter tuning, deployment on cloud), and contributing to larger open-source ML repositories.
+
+### 📚 I'm currently learning
+Deep Learning, advanced NLP, and production-level MLOps (deployment, monitoring, and scaling ML models).
+
+### 💬 Ask me about
+Python, Django, FastAPI, scikit-learn, pandas/numpy, Machine Learning pipelines, or building end-to-end projects like spam detection and price prediction models.
+
+### ⚡ Fun fact
+I learn best by implementing concepts in real projects — most of my repos started as "let me try this idea" experiments and turned into full production-ready systems!
 
 ## 💼 Work Experience
 
@@ -62,16 +72,17 @@ Handled document processing tasks with accuracy and attention to detail, support
 
 ## 🚀 Projects
 
-| Project              | Description                                                                                                                                                                                                                 | Links                                                                                                                                         |
-| -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| Email Spam Detection | End-to-end Email Spam Detection system using Machine Learning and NLP, featuring TF-IDF, Logistic Regression, threshold optimization, and a FastAPI-based real-time inference API. Topics python nlp api | [Demo](https://github-production-user-asset-6210df.s3.amazonaws.com/250616924/541758880-56ce226a-b656-4a5e-934a-7566a15f23f0.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260128%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260128T181908Z&X-Amz-Expires=300&X-Amz-Signature=b6096a58bd4a5a6dad8bc11711a9da4de62d19efd8bdbe2d78fed444b3961e54&X-Amz-SignedHeaders=host) / [GitHub](https://github.com/alisulmanpro/Email-Spam-Detection-Classifier)       |
-| House Price Predictions                     | An end-to-end regression project trained on the Boston Housing dataset, featuring data analysis, Random Forest modeling, model evaluation, and real-time prediction through a REST API built with FastAPI.)                                     | [Demo](https://github.com/user-attachments/assets/56ce226a-b656-4a5e-934a-7566a15f23f0) / [GitHub](https://github.com/alisulmanpro/House-Price-Prediction-Model) |
+| Project | Description | Links                                                                                                                                         |
+| :--- | :--- | :--- |
+| **Email Spam Detection Classifier** | End-to-end Email Spam Detection system using Machine Learning and NLP, featuring TF-IDF, Logistic Regression, threshold optimization, and a FastAPI-based real-time inference API. Topics python nlp api | [Demo](https://res.cloudinary.com/doetqiwsa/video/upload/v1769078551/recording_2026-01-21T18-30-51-627Z_ytftqc.webm) |
+| **House Price Predictions** | An end-to-end regression project trained on the Boston Housing dataset, featuring data analysis, Random Forest modeling, model evaluation, and real-time prediction through a REST API built with FastAPI.) | [Demo](https://github-production-user-asset-6210df.s3.amazonaws.com/250616924/541758880-56ce226a-b656-4a5e-934a-7566a15f23f0.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260213%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260213T165000Z&X-Amz-Expires=300&X-Amz-Signature=b1e949bd79926646e8f4eff8367596c7372307741f11cf1041ea3bc4fa9c0c13&X-Amz-SignedHeaders=host) |
+| **Student Performance Prediction** | Production-ready machine learning system to predict student final grades using structured data, sklearn pipelines, and FastAPI deployment. | [Demo](https://res.cloudinary.com/doetqiwsa/video/upload/v1770533880/recording_2026-02-08T06-44-11-408Z_op6hif.webm)
 
 ## 🎓 Education
 
-| Institution                    | Degree    |
-| ------------------------------ | --------- | 
-| Virtual University of Pakistan | Bachelors | 
+| Institution | Degree |
+| :--- | :--- | 
+| Virtual University of Pakistan | Bachelors in Software Engineering | 
 
 ### Bachelors in Software Engineering
 
@@ -80,66 +91,27 @@ _Virtual University of Pakistan_
 Focused on software development fundamentals, problem solving, and practical
 application of programming concepts.
 
-## 📞 Contact & Links
-
-<div align="left">
-
-- 📫 How to reach me **alisulmanpro1470@gmail.com**
-
-</div>
-
-## ⚡ Fun Fact
-
-<div align="center">
-
-_I learn new concepts best by implementing them in real projects._
-
-</div>
-
 ## 🌐 Connect with Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alisulmanpro)&nbsp;&nbsp;&nbsp;[![Twitter/X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/https://x.com/alisulmanpro)&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/https://www.linkedin.com/in/ali-sulman-077682374/)&nbsp;&nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/alisu_1470/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alisu_1470/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-sulman-077682374/) [![Twitter/X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/alisulmanpro) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alisulmanpro1470@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/alisulmanpro)
 
 </div>
 
 
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2> 
-<picture align="center">
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=plastic&logo=chakraui&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=plastic&logo=bun&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=plastic&logo=daisyui&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=plastic&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=plastic&logo=yarn&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=Prisma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=plastic&logo=jest&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=plastic&logo=Meta&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=plastic&logo=Twilio&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=plastic&logo=nVIDIA&logoColor=white)
+
+<!-- <picture align="left">
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
   <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
-</picture>
-
-<br />
-<br />
-
-### 💻 DevOps
-
-<img src="https://cdn.simpleicons.org/docker/2496ED?size=32" alt="Docker"  />
-
-### 💻 Software
-
-<img src="https://cdn.simpleicons.org/figma/F24E1E?size=32" alt="Figma"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/postman/FF6C37?size=32" alt="Postman"  />
-
-### 💻 Static Site Generators
-
-<img src="https://cdn.simpleicons.org/nextdotjs/fff?size=32" alt="Next.js"  />
-
-### 💻 Other
-
-<img src="https://cdn.simpleicons.org/git/F05032?size=32" alt="Git"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/linux/FCC624?size=32" alt="Linux"  />
-
-<h2 align="left">Current Learning</h2>
-<ul align="left">
-  <li>Advanced Python concepts and best practices</li>
-  <li>Machine Learning fundamentals and model building</li>
-  <li>Data preprocessing and feature engineering</li>
-  <li>Data preprocessing and feature engineering</li>
-</ul>
+</picture> -->
 
 <!--Trophies Section-->   
+
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
   <a href="https://github.com/alisulmanpro">
@@ -173,32 +145,28 @@ _I learn new concepts best by implementing them in real projects._
       </p>
     </td>
   </tr>
-  <tr>
-    <!--
-    <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-      <p align="center">
-        <a href="https://github.com/alisulmanpro/storyblok-mcp-server">
-          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=alisulmanpro&repo=storyblok-mcp-server&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
-        </a>
-      </p>
-    </td>
-    -->
-  </tr>
 </table>
+
+![](https://github-contributor-stats.vercel.app/api?username=alisulmanpro&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 <br />
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=alisulmanpro&bg_color=201F1D&&color=EAE9E7&line=EAE9E7&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
+
 ---
 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+
 <!--STARTS_HERE_QUOTE_CARD-->
-<p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=&theme=dark&bg_color=201F1D&author_color=EAE9E7&accent_color=EAE9E7">
-</p>
+<div align="center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
+
 <!--ENDS_HERE_QUOTE_CARD-->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
