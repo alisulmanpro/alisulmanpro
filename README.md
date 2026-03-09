@@ -100,6 +100,10 @@ application of programming concepts.
 
 </div>
 
+## Featured Gists
+
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=fde09cf5421e97cb45b36566722135ec)](https://gist.github.com/alisulmanpro/fde09cf5421e97cb45b36566722135ec)
+
 
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2> 
 
