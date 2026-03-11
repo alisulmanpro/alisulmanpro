@@ -82,11 +82,20 @@ Handled document processing tasks with accuracy and attention to detail, support
 <h2 align="center">Fᴇᴀᴛᴜʀᴇᴅ Gɪsᴛs</h2>
 <div align="center">
   <a href="https://gist.github.com/alisulmanpro/273f14d3ec063963755b7a6e33e97f91">
-    <img src="https://github.com/user-attachments/assets/d5a569e7-d6be-4030-92c5-964317c6a34f" width="48%" alt="Number Guessing Game" />
+    <img src="https://github.com/user-attachments/assets/d5a569e7-d6be-4030-92c5-964317c6a34f" width="50%" alt="Number Guessing Game" />
   </a>
   
   <a href="https://gist.github.com/alisulmanpro/7dd76433e34987b850cd005484b928eb">
-    <img src="https://github.com/user-attachments/assets/ef9287a3-d73d-473f-990c-19472f0b1cb2" width="48%" alt="Simple Calculator" />
+    <img src="https://github.com/user-attachments/assets/ef9287a3-d73d-473f-990c-19472f0b1cb2" width="50%" alt="Simple Calculator" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://gist.github.com/alisulmanpro/273f14d3ec063963755b7a6e33e97f91">
+    <img src="https://github.com/user-attachments/assets/1458ef00-3875-4ed9-8f78-363355b6cb4f" width="50%" alt="To-Do List" />
+  </a>
+  
+  <a href="https://gist.github.com/alisulmanpro/7dd76433e34987b850cd005484b928eb">
+    <img src="https://github.com/user-attachments/assets/fad2ca29-ce30-4108-bde5-b307b093b272" width="50%" alt="Contact Book" />
   </a>
 </div>
 
