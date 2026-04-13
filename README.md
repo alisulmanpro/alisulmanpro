@@ -2,7 +2,7 @@
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Ali Sulman
 
-#### Helping businesses automate tasks & build web solutions | Python, ML & Full Stack Developer | Part of Pakistan AI Lab & FYP Solutions Tech
+#### Full-Stack AI Developer | Next.js + FastAPI + Python ML | Building AI-powered web apps
 
 <p align="left">
 Passionate Python developer and Machine Learning enthusiast from Pakistan. I build practical, scalable applications using Django, FastAPI, and ML tools. Currently working as a Junior Software Engineer at Pakistan Artificial Intelligence Lab, focusing on real-world AI projects. I learn best by turning concepts into production-ready code!
