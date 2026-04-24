@@ -81,26 +81,27 @@ Handled document processing tasks with accuracy and attention to detail, support
 
 <h2 align="center">Fᴇᴀᴛᴜʀᴇᴅ Gɪsᴛs</h2>
 <div align="center">
+
+  <!-- Row 1 -->
   <a href="https://gist.github.com/alisulmanpro/273f14d3ec063963755b7a6e33e97f91">
-    <img width="214" height="109" alt="Image" src="https://github.com/user-attachments/assets/c32e5cde-1b42-4baa-863d-283649e18c9f" />
+    <img src="https://github.com/user-attachments/assets/c32e5cde-1b42-4baa-863d-283649e18c9f" width="49%" />
   </a>
   
   <a href="https://gist.github.com/alisulmanpro/7dd76433e34987b850cd005484b928eb">
-    <img width="214" height="109" alt="Image" src="https://github.com/user-attachments/assets/6bb1f790-5a2d-4de0-8b33-da4fefdf6b8c" />
+    <img src="https://github.com/user-attachments/assets/6bb1f790-5a2d-4de0-8b33-da4fefdf6b8c" width="49%" />
   </a>
 
+  <br/>
+
+  <!-- Row 2 -->
   <a href="https://gist.github.com/alisulmanpro/273f14d3ec063963755b7a6e33e97f91">
-    <img width="214" height="109" alt="Image" src="https://github.com/user-attachments/assets/736e27bb-e7d4-4268-ad17-191407a668e5" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://gist.github.com/alisulmanpro/273f14d3ec063963755b7a6e33e97f91">
-    <img width="214" height="109" alt="Image" src="https://github.com/user-attachments/assets/736e27bb-e7d4-4268-ad17-191407a668e5" />
+    <img src="https://github.com/user-attachments/assets/736e27bb-e7d4-4268-ad17-191407a668e5" width="49%" />
   </a>
   
   <a href="https://gist.github.com/alisulmanpro/7dd76433e34987b850cd005484b928eb">
-    <img src="https://github.com/user-attachments/assets/fad2ca29-ce30-4108-bde5-b307b093b272" width="49%" alt="Contact Book" />
+    <img src="https://github.com/user-attachments/assets/fad2ca29-ce30-4108-bde5-b307b093b272" width="49%" />
   </a>
+
 </div>
 
 ## 🎓 Education
