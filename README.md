@@ -71,15 +71,6 @@ I'm **Ali Sulman** (`alisulmanpro`), a **full-stack AI developer** who turns ide
   <a href="https://github.com/alisulmanpro/Student-Performance-Prediction"><img width="49%" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin?username=alisulmanpro&repo=Student-Performance-Prediction&bg_color=0b1220&title_color=22d3ee&text_color=cbd5e1&icon_color=a78bfa&border_color=1e293b&border_radius=12" alt="Student Performance Prediction by Ali Sulman" /></a>
 </p>
 
-### 🎬 Live Demos
-
-| Project | What it does | Demo |
-|:--|:--|:--:|
-| **Email Spam Detection** | NLP classifier (TF-IDF + Logistic Regression) with threshold tuning and a real-time FastAPI inference API | [▶️ Watch](https://res.cloudinary.com/doetqiwsa/video/upload/v1769078551/recording_2026-01-21T18-30-51-627Z_ytftqc.webm) |
-| **House Price Prediction** | Random Forest regression on Boston Housing, served through a FastAPI REST API | [▶️ Watch](https://github.com/user-attachments/assets/56ce226a-b656-4a5e-934a-7566a15f23f0) |
-| **Student Performance Prediction** | scikit-learn pipelines predicting final grades, deployed with FastAPI | [▶️ Watch](https://res.cloudinary.com/doetqiwsa/video/upload/v1770533880/recording_2026-02-08T06-44-11-408Z_op6hif.webm) |
-| **Diabetes Prediction** | XGBoost + SHAP explainability, real-time health predictions via FastAPI | 🔜 Soon |
-
 ## 📌 Featured Gists
 
 <p align="center">
