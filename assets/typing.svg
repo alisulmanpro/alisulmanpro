@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="56" viewBox="0 0 800 56" role="img" aria-label="Ali Sulman: Full-Stack AI Developer | Next.js + TypeScript Frontends | FastAPI &amp; Django Backends | Machine Learning Engineer | Turning ideas into production apps">
+<style>
+.t { font-family: 'Courier New', 'DejaVu Sans Mono', monospace; font-size: 24px; font-weight: 700; fill: #22d3ee; }
+.cur { fill: #f472b6; animation: blink 0.8s step-end infinite; }
+@keyframes blink { 50% { opacity: 0; } }
+#c0 { animation: k0 18.0s infinite; } @keyframes k0 { 0% { width:0; animation-timing-function: steps(23); } 6.667% { width:333.2px; } 14.444% { width:333.2px; animation-timing-function: steps(23); } 17.778% { width:0; } 100% { width:0; } }
+#u0 { animation: m0 18.0s infinite; } @keyframes m0 { 0% { transform: translateX(0); opacity:1; animation-timing-function: steps(23); } 6.667% { transform: translateX(331.2px); opacity:1; } 14.444% { transform: translateX(331.2px); opacity:1; animation-timing-function: steps(23); } 17.778% { transform: translateX(0); opacity:1; } 20.0% { opacity:0; } 100% { opacity:0; } }
+#c1 { animation: k1 18.0s infinite; } @keyframes k1 { 0% { width:0; } 20.0% { width:0; animation-timing-function: steps(30); } 26.667% { width:434.0px; } 34.444% { width:434.0px; animation-timing-function: steps(30); } 37.778% { width:0; } 100% { width:0; } }
+#u1 { animation: m1 18.0s infinite; } @keyframes m1 { 0% { transform: translateX(0); opacity:0; } 19.999% { opacity:0; } 20.0% { transform: translateX(0); opacity:1; animation-timing-function: steps(30); } 26.667% { transform: translateX(432.0px); opacity:1; } 34.444% { transform: translateX(432.0px); opacity:1; animation-timing-function: steps(30); } 37.778% { transform: translateX(0); opacity:1; } 40.0% { opacity:0; } 100% { opacity:0; } }
+#c2 { animation: k2 18.0s infinite; } @keyframes k2 { 0% { width:0; } 40.0% { width:0; animation-timing-function: steps(25); } 46.667% { width:362.0px; } 54.444% { width:362.0px; animation-timing-function: steps(25); } 57.778% { width:0; } 100% { width:0; } }
+#u2 { animation: m2 18.0s infinite; } @keyframes m2 { 0% { transform: translateX(0); opacity:0; } 39.999% { opacity:0; } 40.0% { transform: translateX(0); opacity:1; animation-timing-function: steps(25); } 46.667% { transform: translateX(360.0px); opacity:1; } 54.444% { transform: translateX(360.0px); opacity:1; animation-timing-function: steps(25); } 57.778% { transform: translateX(0); opacity:1; } 60.0% { opacity:0; } 100% { opacity:0; } }
+#c3 { animation: k3 18.0s infinite; } @keyframes k3 { 0% { width:0; } 60.0% { width:0; animation-timing-function: steps(25); } 66.667% { width:362.0px; } 74.444% { width:362.0px; animation-timing-function: steps(25); } 77.778% { width:0; } 100% { width:0; } }
+#u3 { animation: m3 18.0s infinite; } @keyframes m3 { 0% { transform: translateX(0); opacity:0; } 59.999% { opacity:0; } 60.0% { transform: translateX(0); opacity:1; animation-timing-function: steps(25); } 66.667% { transform: translateX(360.0px); opacity:1; } 74.444% { transform: translateX(360.0px); opacity:1; animation-timing-function: steps(25); } 77.778% { transform: translateX(0); opacity:1; } 80.0% { opacity:0; } 100% { opacity:0; } }
+#c4 { animation: k4 18.0s infinite; } @keyframes k4 { 0% { width:0; } 80.0% { width:0; animation-timing-function: steps(34); } 86.667% { width:491.6px; } 94.444% { width:491.6px; animation-timing-function: steps(34); } 97.778% { width:0; } 100% { width:0; } }
+#u4 { animation: m4 18.0s infinite; } @keyframes m4 { 0% { transform: translateX(0); opacity:0; } 79.999% { opacity:0; } 80.0% { transform: translateX(0); opacity:1; animation-timing-function: steps(34); } 86.667% { transform: translateX(489.6px); opacity:1; } 94.444% { transform: translateX(489.6px); opacity:1; animation-timing-function: steps(34); } 97.778% { transform: translateX(0); opacity:1; } 100.0% { opacity:0; } 100% { opacity:0; } }
+</style>
+<clipPath id="p0"><rect id="c0" x="234.4" y="0" height="56" width="0"/></clipPath>
+<text clip-path="url(#p0)" x="234.4" y="37" class="t">Full-Stack AI Developer</text>
+<g id="u0"><rect class="cur" x="236.4" y="14" width="3" height="28" rx="1"/></g>
+<clipPath id="p1"><rect id="c1" x="184.0" y="0" height="56" width="0"/></clipPath>
+<text clip-path="url(#p1)" x="184.0" y="37" class="t">Next.js + TypeScript Frontends</text>
+<g id="u1"><rect class="cur" x="186.0" y="14" width="3" height="28" rx="1"/></g>
+<clipPath id="p2"><rect id="c2" x="220.0" y="0" height="56" width="0"/></clipPath>
+<text clip-path="url(#p2)" x="220.0" y="37" class="t">FastAPI &amp; Django Backends</text>
+<g id="u2"><rect class="cur" x="222.0" y="14" width="3" height="28" rx="1"/></g>
+<clipPath id="p3"><rect id="c3" x="220.0" y="0" height="56" width="0"/></clipPath>
+<text clip-path="url(#p3)" x="220.0" y="37" class="t">Machine Learning Engineer</text>
+<g id="u3"><rect class="cur" x="222.0" y="14" width="3" height="28" rx="1"/></g>
+<clipPath id="p4"><rect id="c4" x="155.2" y="0" height="56" width="0"/></clipPath>
+<text clip-path="url(#p4)" x="155.2" y="37" class="t">Turning ideas into production apps</text>
+<g id="u4"><rect class="cur" x="157.2" y="14" width="3" height="28" rx="1"/></g>
+</svg>

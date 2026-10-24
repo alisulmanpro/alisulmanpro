@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="t d">
+  <title id="t">Ali Sulman — Full-Stack AI Developer</title>
+  <desc id="d">Animated banner for Ali Sulman (alisulmanpro): Full-Stack AI Developer building with Next.js, FastAPI and Python ML.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070b14"/>
+      <stop offset="0.55" stop-color="#0d1426"/>
+      <stop offset="1" stop-color="#140d26"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#22d3ee">
+        <animate attributeName="stop-color" values="#22d3ee;#a78bfa;#f472b6;#22d3ee" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="0.5" stop-color="#a78bfa">
+        <animate attributeName="stop-color" values="#a78bfa;#f472b6;#22d3ee;#a78bfa" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#f472b6">
+        <animate attributeName="stop-color" values="#f472b6;#22d3ee;#a78bfa;#f472b6" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#a78bfa"/>
+      <stop offset="1" stop-color="#f472b6" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#a78bfa" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#a78bfa" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.04"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1200" height="320" rx="22"/></clipPath>
+    <style>
+      .node { fill: #a78bfa; }
+      .n1 { animation: pulse 3s ease-in-out infinite; }
+      .n2 { animation: pulse 3s ease-in-out 1s infinite; }
+      .n3 { animation: pulse 3s ease-in-out 2s infinite; }
+      .edge { fill: none; stroke: #22d3ee; stroke-opacity: 0.18; stroke-width: 1.2; }
+      .flow { fill: none; stroke: #22d3ee; stroke-width: 2; stroke-dasharray: 6 120; animation: flow 4s linear infinite; }
+      .flow.b { stroke: #f472b6; animation-duration: 5s; animation-delay: -2s; }
+      .fade { animation: fadeUp 1.2s ease-out both; }
+      .fade2 { animation: fadeUp 1.2s ease-out 0.4s both; }
+      .fade3 { animation: fadeUp 1.2s ease-out 0.8s both; }
+      .float { animation: float 9s ease-in-out infinite; }
+      .float2 { animation: float 11s ease-in-out -4s infinite; }
+      @keyframes pulse { 0%,100% { opacity: .35; } 50% { opacity: 1; } }
+      @keyframes flow { from { stroke-dashoffset: 126; } to { stroke-dashoffset: 0; } }
+      @keyframes fadeUp { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: translateY(0); } }
+      @keyframes float { 0%,100% { transform: translate(0,0); } 50% { transform: translate(30px,-18px); } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="320" fill="url(#bg)"/>
+    <rect width="1200" height="320" fill="url(#grid)"/>
+    <circle class="float" cx="140" cy="60" r="220" fill="url(#glowA)"/>
+    <circle class="float2" cx="1080" cy="280" r="240" fill="url(#glowB)"/>
+
+    <!-- neural network, right side -->
+    <g transform="translate(860 70)">
+      <g class="edges">
+        <path class="edge" d="M0 20L110 0M0 20L110 90M0 20L110 180M0 110L110 0M0 110L110 90M0 110L110 180M0 200L110 0M0 200L110 90M0 200L110 180M110 0L220 45M110 0L220 135M110 90L220 45M110 90L220 135M110 180L220 45M110 180L220 135"/>
+        <path class="flow" d="M0 20L110 90L220 135"/>
+        <path class="flow b" d="M0 200L110 0L220 45"/>
+        <path class="flow" style="animation-delay:-1s" d="M0 110L110 180L220 45"/>
+      </g>
+      <circle class="node n1" cx="0" cy="20" r="7"/>
+      <circle class="node n2" cx="0" cy="110" r="7"/>
+      <circle class="node n3" cx="0" cy="200" r="7"/>
+      <circle class="node n2" cx="110" cy="0" r="8" style="fill:#22d3ee"/>
+      <circle class="node n3" cx="110" cy="90" r="8" style="fill:#22d3ee"/>
+      <circle class="node n1" cx="110" cy="180" r="8" style="fill:#22d3ee"/>
+      <circle class="node n3" cx="220" cy="45" r="9" style="fill:#f472b6"/>
+      <circle class="node n1" cx="220" cy="135" r="9" style="fill:#f472b6"/>
+    </g>
+
+    <!-- text -->
+    <g font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif">
+      <g class="fade">
+        <text x="70" y="98" font-size="20" letter-spacing="4" fill="#94a3b8">HELLO, WORLD — I'M</text>
+      </g>
+      <g class="fade2">
+        <text x="66" y="172" font-size="76" font-weight="800" fill="url(#name)">Ali Sulman</text>
+      </g>
+      <g class="fade3">
+        <rect x="70" y="196" width="520" height="2" fill="url(#line)"/>
+        <text x="70" y="236" font-size="26" font-weight="600" fill="#e2e8f0">Full-Stack AI Developer</text>
+        <text x="70" y="270" font-size="18" fill="#94a3b8">Next.js  •  FastAPI  •  Python ML  •  Building AI-powered web apps</text>
+      </g>
+    </g>
+    <text x="1170" y="300" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#64748b">@alisulmanpro</text>
+    <rect x="0.5" y="0.5" width="1199" height="319" rx="22" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
+  </g>
+</svg>
