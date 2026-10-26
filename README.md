@@ -62,15 +62,6 @@ I'm **Ali Sulman** (`alisulmanpro`), a **full-stack AI developer** who turns ide
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/alisulmanpro/AI-Assistant"><img width="49%" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin?username=alisulmanpro&repo=AI-Assistant&bg_color=0b1220&title_color=22d3ee&text_color=cbd5e1&icon_color=a78bfa&border_color=1e293b&border_radius=12" alt="AI-Assistant by Ali Sulman" /></a>
-  <a href="https://github.com/alisulmanpro/ETL-Pipeline"><img width="49%" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin?username=alisulmanpro&repo=ETL-Pipeline&bg_color=0b1220&title_color=22d3ee&text_color=cbd5e1&icon_color=a78bfa&border_color=1e293b&border_radius=12" alt="ETL-Pipeline by Ali Sulman" /></a>
-  <a href="https://github.com/alisulmanpro/House-Price-Prediction-Model"><img width="49%" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin?username=alisulmanpro&repo=House-Price-Prediction-Model&bg_color=0b1220&title_color=22d3ee&text_color=cbd5e1&icon_color=a78bfa&border_color=1e293b&border_radius=12" alt="House Price Prediction Model by Ali Sulman" /></a>
-  <a href="https://github.com/alisulmanpro/Student-Performance-Prediction"><img width="49%" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin?username=alisulmanpro&repo=Student-Performance-Prediction&bg_color=0b1220&title_color=22d3ee&text_color=cbd5e1&icon_color=a78bfa&border_color=1e293b&border_radius=12" alt="Student Performance Prediction by Ali Sulman" /></a>
-</p>
-
 ## 📌 Featured Gists
 
 <p align="center">
