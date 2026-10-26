@@ -123,14 +123,6 @@ I'm **Ali Sulman** (`alisulmanpro`), a **full-stack AI developer** who turns ide
 </p>
 
 <p align="center">
-  <img width="80%" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=alisulmanpro&background=0b1220&border=1e293b&stroke=1e293b&ring=a78bfa&fire=f472b6&currStreakNum=22d3ee&currStreakLabel=22d3ee&sideNums=e2e8f0&sideLabels=94a3b8&dates=64748b&border_radius=12" alt="Ali Sulman's GitHub streak" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alisulmanpro&bg_color=0b1220&color=94a3b8&line=a78bfa&point=22d3ee&area=true&area_color=a78bfa&hide_border=true&radius=12&custom_title=Ali%20Sulman%27s%20Contribution%20Graph" alt="Ali Sulman's contribution graph" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-trophy-ruddy.vercel.app/?username=alisulmanpro&theme=onedark&no-frame=true&no-bg=true&row=1&column=6&margin-w=12" alt="Ali Sulman's GitHub trophies" />
 </p>
 
