@@ -70,4 +70,17 @@ export const toolkit = [
   { n: '03', title: 'Front-end & mobile', items: ['Next.js · React · TypeScript', 'React Native · Expo'] },
 ];
 
-export const teachingTopics = ['HTML & CSS', 'JavaScript', 'React', 'Next.js'];
+export const teachingTopics = [
+  'JavaScript',
+  'TypeScript',
+  'Python',
+  'C/C++',
+  'MERN Stack',
+  'Next.js',
+  'Django',
+  'FastAPI',
+  'Machine Learning',
+  'Deep Learning',
+  'RAG Integration',
+  'AI Integration',
+];

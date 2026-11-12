@@ -49,7 +49,7 @@ export function About() {
             <motion.div style={{ scaleY: tlProgress }} />
           </div>
           {timeline.map((t, i) => (
-            <Reveal key={t.role} className="tl-item" delay={i * 0.12} y={24}>
+            <Reveal key={t.role} className={`tl-item${i === 0 ? ' is-current' : ''}`} delay={i * 0.12} y={24}>
               <span className="tl-dot" aria-hidden="true" />
               <div className="tl-when">{t.when}</div>
               <div className="tl-role">{t.role}</div>

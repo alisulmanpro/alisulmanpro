@@ -54,7 +54,8 @@ img { display: block; max-width: 100%; }
 /* ---------- Split text ---------- */
 .split { display: inline; }
 .split-word { display: inline-block; white-space: nowrap; }
-.split-mask { display: inline-block; overflow: hidden; vertical-align: top; padding-bottom: 0.08em; margin-bottom: -0.08em; }
+/* Extra room on every side so italic overhangs (the d in "shipped") and the dot on i are never cut off. */
+.split-mask { display: inline-block; overflow: hidden; vertical-align: top; padding: 0.14em 0.12em 0.1em; margin: -0.14em -0.12em -0.1em; }
 .split-char { display: inline-block; will-change: transform; }
 
 /* ---------- Preloader ---------- */
@@ -263,7 +264,7 @@ img { display: block; max-width: 100%; }
 .tl-item { position: relative; padding-bottom: 32px; }
 .tl-item:last-child { padding-bottom: 0; }
 .tl-dot { position: absolute; left: -28px; top: 6px; width: 12px; height: 12px; border-radius: 50%; background: var(--bg); border: 2px solid var(--green); }
-.tl-item:first-child .tl-dot { background: var(--green); }
+.tl-item.is-current .tl-dot { background: var(--green); box-shadow: 0 0 0 4px rgba(35, 69, 54, 0.15); }
 .tl-when { font-family: var(--mono); font-size: 13px; color: var(--muted); }
 .tl-role { margin-top: 4px; font-size: 20px; font-weight: 600; }
 .tl-where { color: var(--ink-2); }
