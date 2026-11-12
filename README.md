@@ -12,6 +12,7 @@
 </p>
 
 <p align="center">
+  <a href="https://alisulmanpro.vercel.app"><img src="https://img.shields.io/badge/Portfolio-alisulmanpro.vercel.app-234536?style=for-the-badge&logo=vercel&logoColor=white" alt="Ali Sulman's portfolio" /></a>
   <a href="https://linkedin.com/in/ali-sulman-077682374/"><img src="https://img.shields.io/badge/LinkedIn-Ali%20Sulman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ali Sulman on LinkedIn" /></a>
   <a href="https://x.com/alisulmanpro"><img src="https://img.shields.io/badge/X-@alisulmanpro-000000?style=for-the-badge&logo=x&logoColor=white" alt="Ali Sulman on X" /></a>
   <a href="https://instagram.com/alisu_1470/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Ali Sulman on Instagram" /></a>
@@ -22,6 +23,20 @@
   <img src="https://komarev.com/ghpvc/?username=alisulmanpro&label=Profile%20Views&color=a78bfa&style=flat-square" alt="Profile views" />
   <img src="https://img.shields.io/badge/Open%20to-Freelance%20%26%20Collaboration-22d3ee?style=flat-square" alt="Open to freelance and collaboration" />
   <img src="https://img.shields.io/badge/Based%20in-Pakistan-f472b6?style=flat-square" alt="Based in Pakistan" />
+</p>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## 🌐 My Portfolio
+
+<p align="center">
+  <a href="https://alisulmanpro.vercel.app">
+    <img src="assets/portfolio-hero.jpg" width="100%" alt="Hero section of Ali Sulman's portfolio: 'I turn data into products people use', with his photo in front of a 3D neural sphere" />
+  </a>
+</p>
+
+<p align="center">
+  <b>👉 <a href="https://alisulmanpro.vercel.app">alisulmanpro.vercel.app</a></b> — React + TypeScript, animated with Framer Motion
 </p>
 
 <img src="assets/divider.svg" width="100%" alt="" />
