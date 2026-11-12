@@ -48,7 +48,7 @@ export function Teaching() {
         </motion.div>
       </div>
       <motion.div className="teach-ghost" style={{ x: ghostX }} aria-hidden="true">
-        HTML · CSS · JavaScript · React · Next.js ·
+        {teachingTopics.join(' · ')} ·
       </motion.div>
     </motion.section>
   );
