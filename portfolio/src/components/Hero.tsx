@@ -12,32 +12,28 @@ export function Hero({ ready }: { ready: boolean }) {
   const time = useClock(profile.timeZone);
   const ref = useRef<HTMLElement>(null);
 
-  // Mouse parallax: three layers move at different speeds.
+  // Mouse parallax, only for a real mouse (touch and trackpad scrolling never trigger it).
   const mx = useMotionValue(0);
   const my = useMotionValue(0);
-  const sx = useSpring(mx, { stiffness: 60, damping: 18 });
-  const sy = useSpring(my, { stiffness: 60, damping: 18 });
+  const sx = useSpring(mx, { stiffness: 80, damping: 22 });
+  const sy = useSpring(my, { stiffness: 80, damping: 22 });
   useEffect(() => {
     const move = (e: PointerEvent) => {
+      if (e.pointerType !== 'mouse') return;
       mx.set((e.clientX / window.innerWidth) * 2 - 1);
       my.set((e.clientY / window.innerHeight) * 2 - 1);
     };
     window.addEventListener('pointermove', move);
     return () => window.removeEventListener('pointermove', move);
   }, [mx, my]);
-  const backX = useTransform(sx, (v) => v * -10);
-  const backY = useTransform(sy, (v) => v * -8);
-  const midX = useTransform(sx, (v) => v * 14);
-  const midY = useTransform(sy, (v) => v * 8);
-  const frontX = useTransform(sx, (v) => v * 30);
-  const frontY = useTransform(sy, (v) => v * 20);
+  // Only the small floating chips drift; the arch and the photo never move.
+  const frontX = useTransform(sx, (v) => v * 8);
+  const frontY = useTransform(sy, (v) => v * 6);
 
-  // Scroll parallax: the copy drifts up and fades, the photo sinks slower.
+  // Scroll: only the text drifts up and fades. The photo stays where it is.
   const { scrollYProgress } = useScroll({ target: ref, offset: ['start start', 'end start'] });
-  const copyY = useTransform(scrollYProgress, [0, 1], [0, -120]);
+  const copyY = useTransform(scrollYProgress, [0, 1], [0, -80]);
   const copyOpacity = useTransform(scrollYProgress, [0, 0.8], [1, 0]);
-  const visualY = useTransform(scrollYProgress, [0, 1], [0, 90]);
-  const archScale = useTransform(scrollYProgress, [0, 1], [1, 1.12]);
 
   const show = ready ? 'show' : 'hidden';
 
@@ -108,20 +104,19 @@ export function Hero({ ready }: { ready: boolean }) {
         </motion.div>
       </motion.div>
 
-      <motion.div className="hero-visual" style={{ y: visualY }}>
-        <motion.div className="layer" style={{ x: backX, y: backY }}>
+      <div className="hero-visual">
+        <div className="layer">
           <motion.div
             className="arch"
-            style={{ scale: archScale }}
             initial={{ scaleY: 0 }}
             animate={{ scaleY: ready ? 1 : 0 }}
             transition={{ duration: 1.2, delay: 0.3, ease: [0.7, 0, 0.2, 1] }}
           >
             <NeuralSphere />
           </motion.div>
-        </motion.div>
+        </div>
 
-        <motion.div className="layer" style={{ x: midX, y: midY }}>
+        <div className="layer">
           <motion.img
             className="hero-photo"
             src="/ali.webp"
@@ -133,7 +128,7 @@ export function Hero({ ready }: { ready: boolean }) {
             animate={ready ? { opacity: 1, y: 0, scale: 1 } : {}}
             transition={{ duration: 1.3, delay: 0.75, ease }}
           />
-        </motion.div>
+        </div>
 
         <motion.div className="layer" style={{ x: frontX, y: frontY, pointerEvents: 'none' }} initial="hidden" animate={show}>
           <FloatChip top={160} left={0} delay={1.5} label="model" value="Python · scikit-learn" />
@@ -160,7 +155,7 @@ export function Hero({ ready }: { ready: boolean }) {
             </a>
           </motion.div>
         </motion.div>
-      </motion.div>
+      </div>
     </section>
   );
 }
